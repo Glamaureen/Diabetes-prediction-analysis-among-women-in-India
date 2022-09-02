@@ -6,11 +6,16 @@ In this project, I performed exploratory analysis to predict based on diagnostic
 
 Project Goals:
 
-To ascertain the total number of diabetic and non-diabetic women
+To ascertain the total number of diabetic and non-diabetic women.
+
 What is the relationship between blood pressure and diabetes?
+
 Does the number of times a woman gets pregnant affect her glucose level?
+
 What is the correlation between body mass index and diabetes?
+
 Does child bearing increase the risk of being diabetic?
+
 What is the highest number of times a woman got pregnant and her glucose level?
 
 Data Assessment and Cleaning:
