@@ -35,8 +35,6 @@ The data set was then imported into sequel (SQL) for analysis.
 DATA VISUALIZATION:
 The data was visualized with Excel.
 
-N/B: The sequel codes and dashboard can be found in the browse code.
-
 
 Full documentation here:
 https://medium.com/@nwokorie.maureen01/diabetes-prediction-analysis-among-women-in-india-using-sql-and-excel-e682ef2257ed
