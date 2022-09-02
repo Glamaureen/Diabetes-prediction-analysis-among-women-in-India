@@ -1,8 +1,8 @@
 # Diabetes-prediction-analysis-among-women-in-India
-EXPLORATORY DATA ANALYSIS USING SQL
+ ANALYSIS USING SQL
 
 This project was done using structured query language (SQL) for analysis and Excel for data visualization. Diabetes mellitus commonly refered to as diabetes is a metabolic disease that causes high blood sugar or when the body cannot make good use of the insulin it produces.
-In this project, I performed exploratory analysis to predict based on diagnostic measurements whether a woman (21 years and above) has diabetes and factors that make her susceptible to having diabetes.
+In this project, I performed an analysis to predict based on diagnostic measurements whether a woman (21 years and above) has diabetes and factors that make her susceptible to having diabetes.
 
 
 PROJECT GOALS:
